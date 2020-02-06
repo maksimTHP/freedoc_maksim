@@ -63,3 +63,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'faker'
 gem 'database_cleaner', '~> 1.5', '>= 1.5.3'
 gem 'table_print'
+gem 'rake'
